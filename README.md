@@ -28,5 +28,4 @@ ping para os servidores UOL (www.uol.com.br), Terra (www.terra.com.br) e Google
 (www.google.com.br). Cada thread deve ler a saída do ping imprimindo, a cada iteração, o
 nome do servidor (usar fixo: UOL, Terra ou Google) e o tempo daquela iteração. Ao fim, deve-
 se exibir o nome do servidor (usar fixo: UOL, Terra ou Google) e o tempo médio obtido pela
-
 operação. Outros Sistemas Operacionais devem ser descartados.
